@@ -1,0 +1,39 @@
+body{
+   /* background-image: url(Images/im3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover; */
+   color: #000;
+  
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+img{
+    
+    height: 20rem;
+    width: 30rem;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    cursor: pointer;
+}
+.build-1{
+    margin-right: -8rem;
+    
+}
+.lorem{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-right: 4rem;
+}
+.line{
+    border: 2px solid red;
+}
